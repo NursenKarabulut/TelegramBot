@@ -10,6 +10,12 @@ Bir Telegram botu oluşturulduktan sonra, kullanıcılar botun kullanıcı adın
 
 Telegram botları, kullanım kolaylığı, güvenlik ve gizlilik özellikleri nedeniyle popülerdir. Kişisel veya ticari amaçlarla kullanılabilirler ve Telegram platformunda binlerce bot mevcuttur.
 
+
+
+
+
+
+
 Telegram bot with python.
 
 A Telegram bot is an application programmed to interact with users in Telegram, a cloud-based instant messaging application. Telegram bots can perform various tasks such as answering frequently asked questions, providing news and weather updates, scheduling appointments and much more.
